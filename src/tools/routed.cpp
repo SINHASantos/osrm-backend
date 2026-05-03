@@ -11,6 +11,7 @@
 #include "osrm/osrm.hpp"
 #include "osrm/storage_config.hpp"
 
+#include "util/program_options_path.hpp"
 #include <boost/algorithm/string/case_conv.hpp>
 #include <boost/any.hpp>
 #include <boost/program_options.hpp>
